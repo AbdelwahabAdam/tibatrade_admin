@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634213867723",
+    "project_id": "tibatrade-de4a9",
+    "storage_bucket": "tibatrade-de4a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634213867723:android:2091f3126a96e59ef9bb4e",
+        "android_client_info": {
+          "package_name": "com.app.tibatrade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLpMc6eUyCuv55UcCUy74yw2J83kkBMRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
